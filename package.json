@@ -1,0 +1,40 @@
+{
+  "name": "multidb",
+  "version": "1.0.0",
+  "description": "Database Colaboration tool",
+  "engines": {
+    "node": ">=0.12.7"
+  },
+  "main": "./lib/index.js",
+  "author": {
+    "name": "Francis Thiong'o",
+    "email": "francisthiongo@gmail.com"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "keywords": [
+    "mysql",
+    "sqlite3",
+    "nodejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frankizzo/multidb.git"
+  },
+  "homepage": "https://github.com/frankizzo/multidb",
+  "gitHead": "",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  },
+  "bugs": {
+    "url": "https://github.com/frankizzo/multidb/issues"
+  },
+  "maintainers": [
+    {
+      "name": "Francis",
+      "email": "francisthiongo@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
